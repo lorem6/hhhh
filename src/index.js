@@ -1,4 +1,5 @@
 import m1 from "./m1";
-m1.sayHello();
+
 m1.setH();
+m1.sayHello();
 console.log("hello vite");
